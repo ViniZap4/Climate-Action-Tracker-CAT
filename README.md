@@ -1,5 +1,6 @@
 # Climate-Action-Tracker-CAT
- Analisando dataset de Climate action tracker (CAT) com pandas
+ Analisando dataset de Climate action tracker (CAT)
+ regrassão linear de emissão de CO2 no Brasil
 
 ## Integrantes
 
